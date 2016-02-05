@@ -1,5 +1,5 @@
 # hello-world
-#inlculde<stdio.h>
+#inlcude<stdio.h>
 #include<conio.h>
 void main()
 {
